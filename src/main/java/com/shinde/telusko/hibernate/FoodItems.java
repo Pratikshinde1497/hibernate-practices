@@ -5,11 +5,17 @@
  */
 package com.shinde.telusko.hibernate;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
 /**
  *
  * @author pratik
  */
+
+@Entity
 public class FoodItems {
+    @Id
     private int fid;
     private String fname;
     private String details;
