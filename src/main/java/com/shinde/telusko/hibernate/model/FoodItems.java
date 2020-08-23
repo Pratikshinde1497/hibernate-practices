@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.shinde.telusko.hibernate;
+package com.shinde.telusko.hibernate.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
