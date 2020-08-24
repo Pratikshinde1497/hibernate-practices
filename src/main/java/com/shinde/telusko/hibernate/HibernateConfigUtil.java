@@ -3,7 +3,7 @@ package com.shinde.telusko.hibernate;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-import com.shinde.telusko.hibernate.model.FoodItems;
+import com.shinde.telusko.hibernate.models.FoodItems;
 
 public class HibernateConfigUtil {
 	
